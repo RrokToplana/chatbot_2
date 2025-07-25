@@ -1,0 +1,6 @@
+#botAPI : 7950386950:AAEX8WMUIfeJ9ZGJrnTCRcrd3we5vIL_MAA
+#botUserName : toplana_bot
+#Threads : 100 
+botAPI : 7355028698:AAGJi25UbRNnci-hlugHEnXgtRgLoR7xp6I
+botUserName : heartMatch_bot
+Threads : 100 
